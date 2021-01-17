@@ -13,7 +13,7 @@
     "authors": [
         {
             "name": "Mailchimp",
-            "homepage": "https://github.com/mailchimp/mailchimp-marketing-php"
+            "homepage": "https://github.com/EDEN45/mailchimp-marketing-php"
         }
     ],
     "require": {
