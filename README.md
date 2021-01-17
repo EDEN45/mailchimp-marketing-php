@@ -12,14 +12,14 @@ The official PHP client library for the Mailchimp Marketing API
 
 **Option 1:** Install via Packagist
 ```
-composer require mailchimp/marketing
+composer require eden45/mailchimp-marketing
 ```
 
 Or add the following to `composer.json`
 ```
 {
   "require": {
-    "mailchimp/marketing": "*"
+    "eden45/mailchimp-marketing": "*"
   }
 }
 ```
@@ -33,7 +33,7 @@ composer install
 
 Clone the repo
 ```
-git clone git@github.com:mailchimp/mailchimp-marketing-php.git
+git clone git@github.com:eden45/mailchimp-marketing-php.git
 ```
 
 In the client library project root, install all dependencies
